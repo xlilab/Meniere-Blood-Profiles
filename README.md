@@ -1,5 +1,5 @@
 # Meniere-Blood-Profiles
-This repository contains the analysis pipelines, custom scripts, and processed data associated with the study of **Ménière’s Disease (MD)** signatures in peripheral blood. [cite_start]By integrating **serum metabolomics**, **lipidomics**, and **PBMC transcriptomics**, we characterize the systemic immune and metabolic landscape of MD patients.
+This repository contains the analysis pipelines, custom scripts, and processed data associated with the study of **Ménière’s Disease (MD)** signatures in peripheral blood. By integrating **serum metabolomics**, **lipidomics**, and **PBMC transcriptomics**, we characterize the systemic immune and metabolic landscape of MD patients.
 
 ---
 
