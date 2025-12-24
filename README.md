@@ -37,3 +37,28 @@ Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vert
 ├── figures/                   # Scripts to reproduce manuscript figures 1-7
 ├── environment.yml            # Conda environment configuration (R v4.2.0)
 └── README.md
+
+## Methodology & Software
+
+Omics Profiling
+
+* Metabolomics & Lipidomics: Analyzed using UHPLC coupled to a Q-Exactive Orbitrap MS system. Raw data was processed with XCMS and CAMERA.
+* Transcriptomics: PBMC libraries were prepared with the VAHTS Stranded mRNA-seq Kit and sequenced on an Illumina NovaSeq 6000. Reads were aligned to GRCh38 using STAR.
+
+Bioinformatics Analysis
+
+* Multivariate Analysis: Unsupervised PCA and supervised OPLS-DA (200-permutation tests) were performed using the ropls package.
+* Causal Inference: Two-sample MR utilized the IVW (multiplicative random-effect) model, with MR-PRESSO for pleiotropy detection.
+* Cell Type Deconvolution: CD4+ memory T cell and Th1 signatures were estimated using CIBERSORTx and ABIS.
+
+
+## Data Access
+* RNA-seq Raw Data: Deposited at [Insert Repository Name] under accession number [Insert Accession].
+* Processed Omics: Available in the data/ folder and Supplementary Data files.
+* GWAS Sources: FinnGen R11 and Busselton Health Study (GWAS Catalog).
+
+## Contact
+
+CAS Key Laboratory of Computational Biology,
+Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences
+Email: [xxx@126.com]
