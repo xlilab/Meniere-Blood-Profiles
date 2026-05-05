@@ -10,7 +10,7 @@ Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vert
 ### **Key Findings**
 * **Systemic Metabolic Dysregulation**: We identified significant upregulation of key immune-signaling molecules, specifically **Sphingosine-1-phosphate (S1P)** and **Glutamate**.
     
-* **Causal Protective Role**: Two-sample Mendelian Randomization (MR) analysis suggests a likely protective effect of **total free cholesterol** against MD.
+* **Genetic Association**: Two-sample Mendelian randomization (MR) analysis suggests a possible association between genetically predicted cholesterol levels and MD risk.
     
 * **Th1 Cell Skewing**: Computational deconvolution and independent **flow cytometry validation** in a larger cohort confirmed a significant increase in peripheral **CD4+ Th1 cells** in MD patients.
 * **Signaling Mechanism**: Integrative analysis suggests that the **Psychosine-GPR65 pathway** may drive the observed immune features.
