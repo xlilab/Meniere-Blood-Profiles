@@ -54,7 +54,7 @@ Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vert
 
 
 ### **Data Access**
-* RNA-seq Raw Data: Deposited at [Repository Name] under accession number [Accession].
+* RNA-seq Raw Data: Deposited at the National Genomics Data Center, under accession number HRA018078 (BioProject: PRJCA062192).
 * Processed Omics: Available in the data/ folder and Supplementary Data files.
 * GWAS Sources: FinnGen R11 and Busselton Health Study (GWAS Catalog).
 
