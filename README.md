@@ -1,11 +1,11 @@
 # Meniere-Blood-Profiles
-This repository contains the analysis pipelines, custom scripts, and processed data associated with the study of **Ménière’s Disease (MD)** signatures in peripheral blood. By integrating **serum metabolomics**, **lipidomics**, and **PBMC transcriptomics**, we characterize the systemic immune and metabolic landscape of MD patients.
+This repository contains the analysis pipelines, custom scripts, and processed data associated with the study of **Ménière’s Disease (MD)** signatures in peripheral blood. By integrating **serum metabolomics**, **lipidomics**, and **PBMC transcriptomics**, we characterize the immune and metabolic landscape of MD patients.
 
 ---
 
 ## Research Overview
 
-Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vertigo, fluctuating sensorineural hearing loss, tinnitus, and aural fullness. While its etiology remains unelucidated, our study supports an autoimmune or autoinflammatory origin through systemic molecular profiling.
+Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vertigo, fluctuating sensorineural hearing loss, tinnitus, and aural fullness. While its etiology remains unelucidated, our study supports an autoimmune or autoinflammatory origin through molecular profiling.
 
 ### **Key Findings**
 * **Systemic Metabolic Dysregulation**: We identified significant upregulation of key immune-signaling molecules, specifically **Sphingosine-1-phosphate (S1P)** and **Glutamate**.
@@ -13,7 +13,7 @@ Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vert
 * **Genetic Association**: Two-sample Mendelian randomization (MR) analysis suggests a possible association between genetically predicted cholesterol levels and MD risk.
     
 * **Th1 Cell Skewing**: Computational deconvolution and independent **flow cytometry validation** in a larger cohort confirmed a significant increase in peripheral **CD4+ Th1 cells** in MD patients.
-* **Signaling Mechanism**: Integrative analysis suggests that the **Psychosine-GPR65 pathway** may drive the observed immune features.
+* **Signaling Mechanism**: Integrative analysis suggests that the **Psychosine-GPR65 pathway** may underlie the observed immune features.
     
 
 ---
