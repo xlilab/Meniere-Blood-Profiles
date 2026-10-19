@@ -8,7 +8,7 @@ This repository contains the analysis pipelines, custom scripts, and processed d
 Ménière’s disease (MD) is a chronic inner ear syndrome characterized by vertigo, fluctuating sensorineural hearing loss, tinnitus, and aural fullness. While its etiology remains unelucidated, our study supports an autoimmune or autoinflammatory origin through molecular profiling.
 
 ### **Key Findings**
-* **Systemic Metabolic Dysregulation**: We identified significant upregulation of key immune-signaling molecules, specifically **Sphingosine-1-phosphate (S1P)** and **Glutamate**.
+* **Systemic Metabolic Dysregulation**: We identified significant upregulation of key immune-signaling molecules, specifically **Sphingosine-1-phosphate (S1P)**.
     
 * **Genetic Association**: Two-sample Mendelian randomization (MR) analysis suggests a possible association between genetically predicted cholesterol levels and MD risk.
     
